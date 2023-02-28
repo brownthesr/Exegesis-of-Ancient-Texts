@@ -1,4 +1,5 @@
 unused/*
-processed_vectors/*
+processed_vectors/contextual_vectors(2).csv
+processed_vectors/sentence_vectors.csv
 models/*
 d_workbench.py
