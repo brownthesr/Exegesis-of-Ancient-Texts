@@ -1,4 +1,8 @@
 # A Machine Learning Exegesis of Ancient Scripture
+## Purpose
+Here we seek a better analysis of ancient scripture than what has hitherto been possible. To do this we utilize pretrained Natural Language models to process and interpret verses of scripture. As an example, pictured below are verses from three different books of scripture. These verses have been converted to vectors and subsequently projected by UMAP onto a 2-dimensional plane. It is seen that these deep learning models are able to identify authorship quite distinctly.
+
+![]()
 ## Organization
 This project is organized as follows:
 - The datasets folder contains all of the json and csv versions of the different books of scripture
